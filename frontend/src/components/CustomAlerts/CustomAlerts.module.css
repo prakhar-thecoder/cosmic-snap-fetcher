@@ -1,0 +1,9 @@
+.customAlert {
+    width: 60%;
+}
+
+@media only screen and (max-device-width: 768px) and (orientation: portrait) {
+  .customAlert {
+    width: 95%;
+  }
+}
