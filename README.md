@@ -13,8 +13,8 @@ Welcome to **Cosmic Snap Fetcher**! This project is designed to fetch and displa
 ## Features
 
 - Fetch high-quality images of celestial bodies and astronomical events.
-- Search for specific images by keywords or categories.
-- Save your favorite images for offline viewing.
+- Get NASA's APOD (Astronomical Picture of the Day).
+- Get the APOD directly on you email.
 - Responsive and user-friendly interface.
 
 ## Project Structure
